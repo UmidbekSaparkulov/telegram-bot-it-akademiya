@@ -1,2 +1,7 @@
 Ushbu Repository telegram bot kursi uchun tayyorlandi. Darslar davomida o'tiladigan dasturlarning kodlarini aynan shu repositoryning branchlaridan topishingiz mumkin.
-P.s.: Ushbu kurs Anvar Narzullayevning mukammal telegram bot kursi asosida qo'shimchalar qo'shish orqali tayyorlandi.
+Bu telegram bot o'quv markaz haqida ma'lumot beradigan bot hishoblanadi.
+ISHLATISH UCHUN
+1. O'zingizga ko'chirvolasiz.
+2. Visual studio yoki Pycharm yoki Sublimega o'xshagan interfeysda terminalni ishga tushirasiz
+3. so'ng  <<python .\app.py>>  ni yozasiz
+4.    
